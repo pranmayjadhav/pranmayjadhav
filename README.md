@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranmayjadhav
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ExpressJS, ReactJS, NodeS
-- 💞️ I’m looking to collaborate on development any frontend technologies
+- 👀 I’m interested in web and backend development
+- 🌱 I’m currently learning ExpressJS, ReactJS, NodeJS
+- 💞️ I’m looking to collaborate on development any frontend/backend technologies
 - 📫 How to reach me -- pranmayj09@gmail.com
 
 <!---
