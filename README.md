@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranmayjadhav
 - 👀 I’m interested in web and backend development
-- 🌱 I’m currently learning ExpressJS, ReactJS, NodeJS
+- 🌱 I’m currently conquering for DSA, SQL, LLD, HLD 
 - 💞️ I’m looking to collaborate on development any frontend/backend technologies
 - 📫 How to reach me -- pranmayj09@gmail.com
 
